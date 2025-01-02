@@ -1,0 +1,1 @@
+<h1>get method practice :</h1>
